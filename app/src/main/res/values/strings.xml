@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">JagrukBharat</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_nav">Nav</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="hindi_choose">अपनी भाषा चुनीये</string>
+    <string name="english_choose">Choose your language</string>
+    <string name="eng">English</string>
+    <string name="hin">हिंदी</string>
+    <string name="hin_app_name">जागरुकभारत</string>
+    <string name="title_activity_farmer">Farmer</string>
+    <string name="forMore">For Options see here</string>
+    <string name="forMore_hin">For Options see here</string>
+    <string name="forhelp">Press this for help</string>
+    <string name="forhelp_hin">सहायता</string>
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
